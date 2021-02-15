@@ -1,0 +1,18 @@
+{
+    "name": "restaurant_server",
+    "version": "1.0.0",
+    "description": "Serves menu ",
+    "main": "index.js",
+    "engines": {
+        "node": "14.0"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "mysql": "^2.18.1",
+        "nodemon": "^2.0.7"
+    }
+}
